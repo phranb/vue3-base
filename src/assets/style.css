@@ -1,0 +1,26 @@
+.loginBox {
+    width: 40%;
+    margin-top: 5%;
+}
+
+.bottomSpaceNav{
+    margin-bottom: 5%;
+}
+
+.topSpaceButton{
+    margin-top: 5%;
+}
+
+/* .footerBack{
+    background: url(./images/back.jpeg);
+} */
+
+.footer{
+    bottom: 0 !important;
+    position: absolute;
+    width: 100%;
+}
+
+.custom-box-mt{
+    margin-top: 5%;
+}
