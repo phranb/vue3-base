@@ -6,7 +6,7 @@ to install dependencies
 npm i
 ```
 to run
-````
+```
 npm run serve
 ```
 
